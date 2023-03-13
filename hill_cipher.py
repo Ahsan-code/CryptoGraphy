@@ -74,5 +74,4 @@ def main():
 if __name__ == "__main__":
 	main()
 
-# This code is contributed
-# by Pratik Somwanshi
+# By Ahsan Habib
