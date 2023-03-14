@@ -4,7 +4,7 @@ listalpha = dict(enumerate(alphanum))
 
 rev_list = dict(zip(alphanum,range(len(alphanum))))
 
-print(rev_list['A'])
+print(listalpha)
 
 
 
